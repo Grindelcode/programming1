@@ -6,7 +6,7 @@ Some comments and most of the println are in German.
 
 Cointains:
 
-1 . exercise sheet (uebungsblatt1):
+###### 1th exercise sheet (uebungsblatt1):
 - Konvention.java
 - Mult.java
 - MultScanner.java
@@ -14,7 +14,7 @@ Cointains:
 - Rectangle.java
 - Sum.java
 
-2 . exercise sheet (uebungsblatt2):
+###### 2th exercise sheet (uebungsblatt2):
 - Bloecke.java (blocks)
 - Casts.java
 - Fakultaet.java (faculty)
@@ -33,7 +33,7 @@ Cointains:
 - Zeller.java (celeriac)
 - Zellererweitert.java (celeriac extended)
 
-3 . exercise sheet (uebungsblatt3):
+###### 3th exercise sheet (uebungsblatt3):
 - ControlStructure.java
 - DanglingElse.java
 - Dreiersumme.java (sum of three)
@@ -48,7 +48,7 @@ Cointains:
 - Stars.java
 - Vokale.java (vowels)
 
-4 . exercise sheet (uebungsblatt4):
+###### 4th exercise sheet (uebungsblatt4):
 - Arrays.java
 - BubbleSort.java
 - Calculation.java
@@ -56,7 +56,7 @@ Cointains:
 - Sentence.java
 
 
-5 . exercise sheet (uebungsblatt5):
+5th exercise sheet (uebungsblatt5):
 - CharacterUtil.java
 - Employee.java
 - FakRek.java
@@ -72,7 +72,7 @@ Cointains:
 - Triangle.java
 
 
-6 . exercise sheet (uebungsblatt6):
+###### 6th exercise sheet (uebungsblatt6):
 - Data.java
 - DateTest.java
 - Point.java
