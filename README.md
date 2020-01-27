@@ -1,6 +1,6 @@
 # programming1
 
-First semester of programming at my University.
+First semester of programming in Java(JDK 13) at my University.
 
 Some comments and most of the println are in German.
 
