@@ -85,6 +85,17 @@ Cointains:
 - TimeTest.java
 - Triangle.java
 
+###### 7th exercise sheet (uebungsblatt7):
+- Calculator.java
+- CharCounter.java
+- CompareRegionMatch.java
+- CompareStrings.java
+- FirstB.java
+- JavaPackageNameConverter.java
+- LastChar.java
+- Sentences.java
+- Tokenizer.java
+- WordChanger.java
 
 
 
