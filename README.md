@@ -3,7 +3,7 @@
 First semester of programming in Java(JDK 13) at my University.
 
 Some comments and most of the println are in German.
-The PDF's contain all exercices. 
+The PDF's contain all exercices in german. 
 
 Cointains:
 
